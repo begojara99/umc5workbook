@@ -1,6 +1,6 @@
 
 import { movies } from "./movieDummy";
-import Movie from "./Components/Movie";
+import Movie from "./Components/Movie/Movie";
 function App() {
   return (
     <div className="App">
